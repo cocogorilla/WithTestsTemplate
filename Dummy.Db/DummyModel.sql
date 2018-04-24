@@ -1,0 +1,1 @@
+﻿create table DummyModel (Id int identity(1, 1) primary key, ModelChars nvarchar(50) not null);
